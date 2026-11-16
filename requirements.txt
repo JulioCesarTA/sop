@@ -1,0 +1,7 @@
+prophet
+pandas
+matplotlib
+statsmodels
+plotly
+ipykernel
+ipywidgets
